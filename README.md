@@ -1,26 +1,23 @@
-# CV Premium — Stephen Aggey
+# Stephen Aggey
 
-Template HTML/CSS/JS prêt à héberger sur GitHub Pages.
+Executive portfolio focused on Digital Transformation, Data Strategy and AI-driven delivery.
 
-## Lancer en local
+## Expertise
+- Digital Transformation
+- Product & Agile Delivery
+- Data & AI Strategy
+- Business Analysis
+- Executive Reporting
 
-Ouvre simplement `index.html` dans ton navigateur.
+## Background
+Consultant with experience across energy, public sector and enterprise transformation programs.
 
-## Déployer sur GitHub Pages
+Currently pursuing:
+- Executive Program in Digital Transformation Strategy — École Polytechnique
+- MBA Big Data & Artificial Intelligence — MBA ESG
 
-1. Crée un dépôt GitHub, par exemple `stephen-cv`.
-2. Ajoute ces fichiers à la racine du dépôt.
-3. Va dans `Settings > Pages`.
-4. Choisis `Deploy from a branch`.
-5. Sélectionne `main` puis `/root`.
-6. Ton site sera disponible sur une URL du type :
+## Core Stack
+HTML • CSS • JavaScript • Power BI • Snowflake • SQL • Agile
 
-```txt
-https://ton-utilisateur.github.io/stephen-cv/
-```
-
-## Fichiers
-
-- `index.html` : contenu du CV
-- `style.css` : design premium dark blue
-- `script.js` : animations, menu mobile, reveal on scroll
+## Portfolio
+Coming soon.
